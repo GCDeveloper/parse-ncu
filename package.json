@@ -1,0 +1,14 @@
+{
+  "name": "@toolia/parse-ncu",
+  "version": "1.0.0",
+  "description": "Parse ncu (npm-check-updates) output as json. Usage: `ncu | parse-ncu`",
+  "main": "index.js",
+  "bin": {
+    "parse-ncu": "index.js"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
